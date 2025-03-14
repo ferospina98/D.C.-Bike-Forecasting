@@ -23,9 +23,9 @@ Key Features:
 
 ## Machine Learning Model
 We trained an XGBoost Regressor to predict bike demand based on:
-- start_hour ⏰ (Time of day)
-- start_weekday 📅 (Day of the week)
-- start_month 📆 (Seasonality)
+- start_hour (Time of day)
+- start_weekday (Day of the week)
+- start_month (Seasonality)
 
 ## Future Improvements
 - Incorporate weather data to enhance predictions.
